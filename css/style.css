@@ -222,6 +222,7 @@ body {
 .plugins .row .plugins-card {
   text-align: center;
   padding-bottom: 3rem;
+  margin: 1rem;
 }
 
 .plugins .row .plugins-card img {
